@@ -1,0 +1,76 @@
+[
+    {
+        "1": "Which one of the following has the highest precedence in the expression?",
+        "2": "Which of the following words cannot be a variable in python language??",
+        "3": "In which language is Python written?",
+        "4": "Which of The Following is must to Execute a Python Code ?",
+        "5": "Which character is used in Python to make a single line comment?",
+        "6": "The append Method adds value to the list at the  ?",
+        "7": "What do we use to define a block of code in Python language?",
+        "8": "Which of The following is executed in browser(client side) ?",
+        "9": "Which of the following keyword is used to create a function in Python ?",
+        "10": "To Declare a Global variable in python we use the keyword ?"
+    },
+    {
+        "1": [
+             "Division",
+			 "Subtraction6",
+             "Power",
+             "Parenthese"
+        ],
+        "2": [
+            "_val",
+            "val",
+            "try",
+            "_try"
+        ],
+        "3": [
+            "English",
+            "PHP",
+            "C",
+            "All of the above"
+        ],
+        "4": [
+            "TURBO C",
+            "Py Interpreter",
+            "Notepad",
+            "IDE"
+        ],
+        "5": [
+            "//",
+            "/",
+            "#",
+            "!"
+        ],
+        "6": [
+            "custom location",
+            "end",
+            "center",
+            "beginning"
+        ],
+        "7": [
+            "Indentation",
+            "Key",
+            "Brackets",
+            "None of these"
+        ],
+        "8": [
+            "perl",
+            "css",
+            "python",
+            "java"
+        ],
+        "9": [
+            "function",
+            "void",
+            "fun",
+            "def"
+        ],
+        "10": [
+            "all",
+            "var",
+            "let",
+            "global"
+        ]
+    }
+]
